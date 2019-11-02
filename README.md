@@ -10,7 +10,7 @@ remote: Total 62 (delta 0), reused 0 (delta 0), pack-reused 62
 Desempaquetando objetos: 100% (62/62), listo.
 ```
 
-Later we make a new directory inside the webcam folder in our computer call build and we go to that directory.
+Later we make a new directory inside the webcam_capture directory in our computer called build and we go to that directory.
 ```
 $ cd webcam_capture/
 ~/webcam_capture$ mkdir build
@@ -46,6 +46,11 @@ Scanning dependencies of target webcam_capture
 ~/Master/Integracion/TEST/webcam_capture/build$ ./webcam_capture 
 Opening video device 0
 ```
+And the capture of the program working below.
+
+![Capture of webcam_capture program](https://github.com/teresamg22/Homework-1.2/blob/master/media/Captura%20de%20pantalla%20de%202019-11-02%2012-27-37.png)
+
+
 
 
 
